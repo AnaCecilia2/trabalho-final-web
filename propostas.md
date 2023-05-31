@@ -11,8 +11,20 @@ Um site de estudos online que ofereça um ambiente interativo e acessível para 
 Dificuldades para se organizar e criar uma rotina de estudos eficiente.
 
 ### Público alvo
+Inclui estudantes que desejam aprender ou revisar o conteúdo do ensino médio.
 
 ### Funcionalidades
+1. Biblioteca de materiais: Será oferecido uma gama de matérias como opção de estudos, como livros, artigos, vídeos, tutoriais e etc. Onde o usuário poderá escolher o método com o qual deseja estudar.
+
+2. Avaliações : Será oferecido testes, atividades e exercícios para reforçar o conhecimento e para o usuário acompanhar sua evolução e nível de aprendizado.
+
+3. Acompanhamento do progresso: O usuário poderá acompanhar seu progresso através de estatísticas e relatórios de seus testes. Poderão visualizar seu desempenho.
+
+4. Página de revisão: Permitirá uma revisão objetiva e resumida do que foi abordados em determinada disciplina ou matéria.
+
+5.Cronograma de estudos: O site oferecerá uma ferramenta de cronograma personalizável, onde os usuários poderão planejar e organizar suas atividades de estudo de acordo com suas preferências e disponibilidade de tempo.
+
+6. Recomendações personalizadas: Com base no histórico de estudos e preferências dos usuários, o site poderá fornecer recomendações personalizadas.
 
 # Proposta 02
 

@@ -1,6 +1,6 @@
 # trabalho-final-web
 Trabalho final da disciplina de WEB
-# Nome_da_Equipe
+# AMPRA
 
 ### Integrantes
 [comment]: <> (Coloque aqui o nome completo, em ordem alfabética, 
