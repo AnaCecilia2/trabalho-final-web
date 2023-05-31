@@ -1,10 +1,14 @@
 # Proposta 01
 
-## Título_da_proposta
+## Site de estudos
 
 ### Descrição
 
+Um site de estudos online que ofereça um ambiente interativo e acessível para pessoas que desejam aprender e aprimorar seus conhecimentos em diferentes áreas, além de ter uma maior organização em relação ao seu aprendizado e progresso. O site fornecerá uma variedade de recursos educacionais, ferramentas interativas e uma comunidade de aprendizado para tornar o processo de estudo mais prático e eficaz.
+
 ### Problema a ser solucionado
+
+Dificuldades para se organizar e criar uma rotina de estudos eficiente.
 
 ### Público alvo
 
